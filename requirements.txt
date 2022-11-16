@@ -18,3 +18,4 @@ schedule==0.4.3
 six==1.11.0
 urllib3==1.22
 zope.interface==4.4.3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
