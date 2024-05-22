@@ -13,7 +13,7 @@ python-dateutil==2.6.1
 pytz==2017.2
 realtime-stock==1.0.0
 redis==2.10.6
-requests==2.18.4
+requests==2.32.0
 schedule==0.4.3
 six==1.11.0
 urllib3==1.22
